@@ -21,4 +21,4 @@ What did we learn?
 
 
 How to improve if given more time? 
-
+	In order to improve the overall format and results of the LSTM and sentiment analyssi of the data, we would need to have more CPI data extracted from the other CPI groups. Some of the more important CPI data that was left out our current data was coffee, which would have a huge impact on the predicted model. Also, it would been best to reformat the models based off of regions. In that version we would split the country into 5 regions and used the data from the Labor and Statistics to set up models for each individual area. The data for region based already exists in the goverment database, and could been used to get a better idea of how each area was impacted more compared to others. For example, In areas such as California Gas, Energy and more would have a higher inflation rate then states in other regions like Wyoming. The breakdown of regions would have been more accurate and narrowed the data for each predicted model, and would display more accurate results of each region in comparsion to the overall CPI. 
