@@ -1,10 +1,10 @@
-Key Files:  Project 2 Presentation, 
+Key Files:  Project 2 DSE Presentation, 
 
 What is the question?
 
-  The question is: How similar are the economic factors from the late 2008-2010 and 2020-2022? Using the CPI, what were the behaving factors of trends in 2008 to 2022? 
+Using the LSTM machine learning model, we will determine how closely the Consumer Price Index can be predicted during two of the most turbulent periods in recent history (2008-2010 and 2020-2022), and if we can predict individual CPI components (i.e. energy, food, shelter).   
 
-	
+We will also use sentiment analysis to validate/contradict our predictions.
 
 How do we approach the question? 
 
